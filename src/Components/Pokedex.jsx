@@ -87,11 +87,6 @@ const machine  =  ( text, time, element)=>{
       machine( greeting, 155, element)
   },[])
 
-// const classButton = 
-
-// console.log(pokemonFiltered)
-// console.log(paginated)
-// console.log(types)
 
   return (
     <div className='pokedex'>
